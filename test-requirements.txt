@@ -14,4 +14,4 @@ typing>=3.5.2; python_version < '3.5'
 py>=1.5.2
 virtualenv<20
 setuptools
-importlib-metadata==0.20
+importlib-metadata==3.7.3
